@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-    <title>Sakura Tsuki | Designer & Developer</title>
+    <title>Caleb Robbins| Designer & Developer</title>
     <script defer src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
     <link href="images/favicon.ico" rel="icon">
     <link href="css/normalize.css" rel="stylesheet">
@@ -22,7 +22,7 @@
     </nav>
     <!-- page header -->
     <header>
-      <h1>Hi! I'm <span>Sakura Tsuki</span>.</h1>
+      <h1>Hi! I'm <span>Caleb Robbins</span>.</h1>
       <h2>I'm a digital <span>designer</span> and <span>developer</span> With a love for coding mod menus!</h2>
     </header>
     <!-- about me section -->
